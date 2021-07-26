@@ -1,4 +1,4 @@
-# <center> QuantumComputingAZ <center>
+# </center> QuantumComputingAZ </center>
 All the material used to create quantum computing course on Udemy.
 
 ## Content
